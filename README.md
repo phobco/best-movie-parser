@@ -6,17 +6,17 @@
 
 ### Использование
 
-Склонировать репозиторий
+Склонируйте репозиторий
 ```
-git clone git@github.com:phobco/movie-parser.git
+$ git clone git@github.com:phobco/movie-parser.git
 ```
 
-Перейти в папку проекта
+Перейдите в папку проекта
 ```
-cd movie-parser/
+$ cd movie-parser/
 ```
 
 Запуск
 ```
-ruby main.rb
+$ ruby main.rb
 ```
